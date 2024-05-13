@@ -1,4 +1,4 @@
-# ML-Project
+# March Madness Predictions
 
 # About
 This repository contains a `Project` folder that contains various Machine Learning Algorithms used to make predictions on the NCAA Division I Men's Basketball March Madness Tournament. There are a total of 7 code files: <br>
